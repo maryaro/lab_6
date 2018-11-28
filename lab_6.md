@@ -84,3 +84,14 @@ Gi statistic default significance map, 999 permutations:
 Gi statistic default cluster map, 999 permutations:
 ![fig 46](https://github.com/maryaro/lab_6/blob/master/fig_46.JPG "fig 46")
 
+Gi* statistic default cluster map, 999 permutations:
+![fig 47](https://github.com/maryaro/lab_6/blob/master/fig_47.JPG "fig 47")
+
+Gi statistic significance map, 99999 permutations:
+![fig 48](https://github.com/maryaro/lab_6/blob/master/fig_48.JPG "fig 48")
+
+Gi statistic cluster map, p < 0.01:
+![fig 49](https://github.com/maryaro/lab_6/blob/master/fig_49.JPG "fig 49")
+
+Gi statistic cluster map, FDR:
+![fig 50](https://github.com/maryaro/lab_6/blob/master/fig_50.JPG "fig 50")
