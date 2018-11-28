@@ -99,7 +99,17 @@ Gi statistic cluster map, FDR:
 -----
 
 ### Part 2
+
+In this spatial analysis, the female population of Baltimore City is correlated to median household income.
+
 ![regression](https://github.com/maryaro/lab_6/blob/master/part2_regression.PNG "regression")
+
 ![spatial error](https://github.com/maryaro/lab_6/blob/master/part2_spatial_error.PNG "spatial error")
+
 ![part2](https://github.com/maryaro/lab_6/blob/master/part2.PNG "part 2")
 
+### Part 3
+
+First, I loaded the vital signs shapefile into QGIS and merged the bottom part that had no neighbors with the rest of the polygon so that it would show up in the spatial analysis. Then, I correlated male population to median household income.
+
+![part3](https://github.com/maryaro/lab_6/blob/master/part3.PNG "part 3")
