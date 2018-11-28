@@ -100,7 +100,7 @@ Gi statistic cluster map, FDR:
 
 ### Part 2
 
-In this spatial analysis, the female population of Baltimore City is correlated to median household income.
+In this spatial analysis, the female population of Baltimore City is correlated to median household income. In the regression report, Moran's I is statistically significant. Lagrange Multiplier was not statistically significant, so you do not have to run the lag model.
 
 ![regression](https://github.com/maryaro/lab_6/blob/master/part2_regression.PNG "regression")
 
