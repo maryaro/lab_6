@@ -95,3 +95,11 @@ Gi statistic cluster map, p < 0.01:
 
 Gi statistic cluster map, FDR:
 ![fig 50](https://github.com/maryaro/lab_6/blob/master/fig_50.JPG "fig 50")
+
+-----
+
+### Part 2
+![regression](https://github.com/maryaro/lab_6/blob/master/part2_regression.PNG "regression")
+![spatial error](https://github.com/maryaro/lab_6/blob/master/part2_spatial_error.PNG "spatial error")
+![part2](https://github.com/maryaro/lab_6/blob/master/part2.PNG "part 2")
+
